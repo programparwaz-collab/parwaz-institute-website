@@ -290,7 +290,7 @@ details p { padding: 0 48px 26px 0; max-width: 42em; }
 .contact .lede { color: #0B2F57; margin-top: 20px; }
 .contact-info { margin-top: 32px; display: grid; gap: 16px; }
 .contact-info dt { font-weight: 600; color: var(--navy); }
-.contact-info a { color: var(--navy); }
+.contact-info dd, .contact-info a { color: var(--navy); }
 .contact-bird { width: 190px; margin-top: 40px; display: none; }
 .contact-bird .b1 { fill: #DDF2FF; } .contact-bird .b2 { fill: #fff; } .contact-bird .b3 { fill: #BFE0F7; } .contact-bird .b4 { fill: #F2FAFF; }
 .form-card { background: #fff; border-radius: 28px 110px 28px 28px; padding: clamp(28px, 4vw, 52px); padding-top: clamp(44px, 5vw, 64px); box-shadow: var(--shadow); }

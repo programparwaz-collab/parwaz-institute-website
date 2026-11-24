@@ -6,10 +6,10 @@ window.PARWAZ = {
   /* ---- 1. INSTITUTE DETAILS (PLACEHOLDERS: replace before launch) --------
      Leave a value as '' to show the bracketed placeholder text on the site. */
   contact: {
-    email: '',      // e.g. 'hello@yourdomain.com'
-    phone: '',      // e.g. '+00 000 0000000'
+    email: 'parwazdigital@gmail.com',
+    phone: '+92 348 5043600',  // 03485043600, in international form so it also works from abroad
     whatsapp: '',   // digits only with country code, e.g. '000000000000'
-    address: '',    // e.g. 'Street, City, Country'
+    address: 'Islamabad, Pakistan',
     hours: ''       // e.g. 'Monday to Friday, 10:00 to 18:00'
   },
   /* Social icons appear in the footer only when real URLs are added:
